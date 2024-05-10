@@ -107,7 +107,7 @@ void parseGetBlockTemplate( const rapidjson::Value &getBlockTemplate ,MiningJob 
 License
 -------
 
-The bitcoin-api-cpp library is released under the terms of [MIT](http://en.wikipedia.org/wiki/MIT_License).
+The bitcoin-blk library is released under the terms of [MIT](http://en.wikipedia.org/wiki/MIT_License).
 
 ```
 Copyright (c) 2024 Danaka developers
